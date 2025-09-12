@@ -22,5 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusfacomplabs01&show_icons=true&locale=en&layout=compact" alt="viniciusfacomplabs01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusfacomplabs01&show_icons=true&locale=en" alt="viniciusfacomplabs01" /></p>
-target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https:/
+
